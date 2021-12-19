@@ -11,6 +11,8 @@ But, tell us what you think [here]https://github.com/gitpod-io/devx-community/is
 
 **Next:** 
 
+* https://github.com/gitpod-io/devx-community/issues/4
+
 **Past**
 
 * https://github.com/gitpod-io/devx-community/issues/2
